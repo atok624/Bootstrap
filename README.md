@@ -19,14 +19,11 @@ REQUIRED SECTIONS:
 - Acknowledgements
 - License
 
-OPTIONAL SECTIONS:
-- FAQ
-
 After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
@@ -55,53 +52,46 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [MOBILEFIRST] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+Make sure that there are no linter errors:
+    -Linter should be set up correctly for this repository.
+    -Linter result should be green.
+    -There should be no custom changes to linter config.
+    -Make sure that you used correct GitHub Flow:
+    -README file should be descriptive.
+    -Commit messages should be meaningful.
+    -Pull Request should have a descriptive title explaining what changes are inside.
+    -Pull Request should have a short summary describing introduced changes in more detail.
+    -Make sure that you documented your work in a professional way:
+    -Branch name should describe a feature or action (e.g. 'created_sidebar' or 'added_comments_section').
+    -Pull Request is made from 'feature branch' into the main branch.
+    ##HTML/CSS requirements
+    Follow our list of best practices for HTML & CSS.
+    Project requirements
+    For this project, you should use the HTML&CSS linter
 
-## 🛠 Built With <a name="built-with"></a>
+The 2 sections you need to build for this project are:
 
-### Tech Stack <a name="tech-stack"></a>
+the toolbar (or header):
+Toolbar
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
+the headline section (right after the header):
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Header]**
+- **[Mobileview]**
+- **[Desktopview]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +101,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link]( https://princebadru.github.io/Mobile-First/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,15 +197,12 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **BADRU NDAWULA**
+- GitHub: [@badru](https://github.com/PrinceBadru)
+- Twitter: [@badru](https://twitter.com/BadruNdawula)
+- Linkedin: [@badru](https://www.linkedin.com/in/badru-ndawula-930b7b217/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +212,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[header]**
+- [ ] **[mobileview]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -263,7 +249,7 @@ I would like to thank...
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
